@@ -9,7 +9,7 @@
 
 <?php
   /*Database Connection*/
-  $host = 'localhost';
+  $host = 'zobaczymyxd-server.mysql.database.azure.com';
   $username = 'vqretbyqmx';
   $password = 'fo29yOcpN$TY3otv';
   $database = 'zobaczymyxd-database';
