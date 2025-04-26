@@ -22,7 +22,7 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>TODO List Management using Bootstrap, PHP, MySql, AJAX, JQuery, Alertify JS</title>
+  <title>Production Title</title>
 </head>
 <body>
   <br><br>
@@ -31,7 +31,7 @@
     <div class="row">
       <div class="col-md-8 col-md-offset-2">
         <div class="alert alert-success" role="alert">
-           <h4>TODO List Management using Bootstrap, PHP, MySql, AJAX, JQuery, Alertify JS</h4>
+           <h4>Production Title</h4>
         </div>
       </div>
     </div>
